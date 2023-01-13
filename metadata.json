@@ -1,0 +1,12 @@
+{
+  "description": "Never hide a new notification, except if you close it.\n",
+  "name": "Persistent Notifications",
+  "shell-version": [
+    "40",
+    "42",
+    "43"
+  ],
+  "url": "https://github.com/AlexeyReshetnyak/persistent-notifications",
+  "uuid": "persistent-notifications@AlexeyReshetnyak",
+  "version": 1
+}
